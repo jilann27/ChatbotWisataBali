@@ -1,0 +1,52 @@
+[
+  {
+    "nama": "Pantai Kuta",
+    "lokasi": "Kabupaten Badung, Bali",
+    "kategori": ["pantai"],
+    "tiket_masuk": "Gratis",
+    "budget": "murah",
+    "jam_operasional": "24 jam",
+    "deskripsi": "Pantai populer dengan pasir putih dan pemandangan matahari terbenam yang indah.",
+    "rekomendasi": true
+  },
+  {
+    "nama": "Pantai Sanur",
+    "lokasi": "Denpasar Selatan, Bali",
+    "kategori": ["pantai"],
+    "tiket_masuk": "Gratis",
+    "budget": "murah",
+    "jam_operasional": "24 jam",
+    "deskripsi": "Pantai dengan ombak tenang yang cocok untuk keluarga dan menikmati matahari terbit.",
+    "rekomendasi": true
+  },
+  {
+    "nama": "Tanah Lot",
+    "lokasi": "Kabupaten Tabanan, Bali",
+    "kategori": ["budaya"],
+    "tiket_masuk": "Rp60.000",
+    "budget": "sedang",
+    "jam_operasional": "07.00 - 19.00 WITA",
+    "deskripsi": "Pura yang terletak di atas batu karang di tengah laut dan menjadi ikon wisata Bali.",
+    "rekomendasi": true
+  },
+  {
+    "nama": "Ubud Monkey Forest",
+    "lokasi": "Ubud, Gianyar, Bali",
+    "kategori": ["alam"],
+    "tiket_masuk": "Rp80.000",
+    "budget": "sedang",
+    "jam_operasional": "08.30 - 18.00 WITA",
+    "deskripsi": "Hutan wisata yang dihuni oleh ratusan monyet dan memiliki nuansa alam yang asri.",
+    "rekomendasi": false
+  },
+  {
+    "nama": "Tegallalang Rice Terrace",
+    "lokasi": "Tegallalang, Gianyar, Bali",
+    "kategori": ["alam"],
+    "tiket_masuk": "Rp15.000",
+    "budget": "murah",
+    "jam_operasional": "08.00 - 18.00 WITA",
+    "deskripsi": "Sawah terasering dengan pemandangan hijau yang terkenal di kawasan Ubud.",
+    "rekomendasi": false
+  }
+]
